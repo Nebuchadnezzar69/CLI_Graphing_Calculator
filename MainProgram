@@ -1,0 +1,10 @@
+#Introduce user to program
+#Ask for odd number dimensions for the graph, if wrong dimensions, prompt again for correct ones
+#
+
+print("Welcome to the Command Line Calculator! Please give me the size of the graph you would like to see in ODD DIMENSIONS ONLY! Proceed with the first and second number for the rows and columns respectively. You can do this by typing the first number in the command line for the rows, then hit enter. Do the same for the columns")
+
+Rows = input("Row value: ")
+Columns = input("Column value: ")
+
+
